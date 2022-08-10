@@ -1,0 +1,1 @@
+# nodemailer-edge-function
